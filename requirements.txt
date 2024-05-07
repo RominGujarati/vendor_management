@@ -1,0 +1,6 @@
+Django
+djangorestframework
+decorator
+django-environ
+django-filter
+psycopg2-binary
